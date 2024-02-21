@@ -2,6 +2,7 @@
   "name": "test2d",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
