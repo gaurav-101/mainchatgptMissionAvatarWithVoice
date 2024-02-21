@@ -10,7 +10,6 @@ import {
 // import Speech from 'speak-tts'
 
 
-// const API_KEY = "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";
 
 const API_KEY = import.meta.env.VITE_OPENAI_KEY;
 const ChatComponent = () => {
